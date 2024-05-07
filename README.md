@@ -23,7 +23,7 @@ The project answers crucial questions and help the company make data driven deci
 ![](shopping_dashboard.png) 
 
 ## INTERACTIVITY 
-😃You can interact with the report [here]
+😃You can interact with the report [here](excel_shopping_dashboard)
 
 ## Conclusion
 
