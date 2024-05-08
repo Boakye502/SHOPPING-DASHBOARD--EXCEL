@@ -1,4 +1,4 @@
-# excel-dashboard-shopping
+# Excel-Superstore-Shopping Dashboard
 
 ![](shopping_pic.jpg)
 
@@ -8,6 +8,14 @@ This project aims to analyze and visualize the sales data from the Shopping Exce
 The project answers crucial questions and help the company make data driven decisions.😄
 
 **_Disclaimer_** : Datasets is just a dummy dataset to demonstrate capababilities of Microsoft Excel, It doesnt demonstrate any company. 
+
+## Overview
+
+The Excel Shopping Dashboard is designed to help analysis and visualize shopping-related data. It offers:
+
+1.Interactive charts to visualize purchases and customer demographics.
+2. Pivot tables and charts for dynamic data analysis.
+3.  Easy-to-use filters for customizing views
 
 ## Analysis
 1. Data Cleaning: Preprocess the dataset to handle missing values and outliers.😫
@@ -22,8 +30,6 @@ The project answers crucial questions and help the company make data driven deci
 ## Visualisation
 ![](shopping_dashboard.png) 
 
-## INTERACTIVITY 
-😃You can interact with the report [here](excel_shopping_dashboard)
 
 ## Conclusion
 
